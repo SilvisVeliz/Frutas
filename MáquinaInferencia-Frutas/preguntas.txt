@@ -1,0 +1,12 @@
+
+
+¿qué color es tu fruta? rojo,amarillo,verde,cafe,naranja,otro.
+se come con cascara? si,no
+tu fruto es seco? si,no
+contiene semillas? si,no
+de qué color es el interior de la fruta? rojo,verde,blanco,amarillo,naranja, otro
+tu fruta suele tener tallo? si,no
+tu fruta tiene una piel lisa? si,no
+la puedes cubrir con una sola mano? si,no
+la semilla de tu fruta es obscura? si,no
+
